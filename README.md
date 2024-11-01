@@ -14,7 +14,7 @@
 ## Tech Stack
 
 - **React Native**: Mobile app framework for building cross-platform applications.
-- **Firebase Authentication**: Google and email-based authentication for user accounts.
+- **Firebase Authentication**: Email-based authentication for user accounts.
 - **Firestore**: Used as a database to store user recipes and other data.
 - **AsyncStorage**: Used for storing user preferences and selected location data locally.
 - **External API**: Spoonacular for fetching recipes from a third-party recipe database, Country State City Api for fetching country,state and city names, Gemini for integrating chatbot.
@@ -32,8 +32,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/vishalmaurya1103/GHAR_KA_ZAYKA.git
-   cd GHAR_KA_ZAYKA
+   git clone https://github.com/Ekansh3503/Ghar_Ka_Zayka.git
+   cd Ghar_Ka_Zayka
    ```
 
 2. **Install Dependencies**:
@@ -65,15 +65,22 @@
 - **Location Handling**: The app saves users' location preferences using AsyncStorage and Firebase, which can be used for location-specific recipe recommendations.
 
 ## UI Screenshots
-![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002445.png?raw=true)
-![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002651.png?raw=true)
-![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002821.png?raw=true)
-![productpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002956.png?raw=true)
-![cartview](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003147.png?raw=true)
-![aboutus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003239.png?raw=true)
-![contactus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003333.png?raw=true)
-![paymentpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003429.png?raw=true)
-![successfullyordered](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003620.png?raw=true)
+<div align="center">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/startingscreen.jpg" alt="startingscreen" width="300">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/login.jpg" alt="loginscreen" width="300">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/signup.jpg" alt="signupscreen" width="300">
+</div>
+<div align="center">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/homescreen.jpg" alt="homescreen" width="300">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/search.jpg" alt="searchscreen" width="300">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/addrecipe.jpg" alt="addscreen" width="300">
+</div>
+<div align="center">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/favrecipes.jpg" alt="favscreen" width="300">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/profilescreen.jpg" alt="profilescreen" width="300">
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/settingsscreen.jpg" alt="settingsscreen" width="300">
+</div>
+<img src="https://github.com/Ekansh3503/Ghar_Ka_Zayka/blob/main/UI%20ss/zaykabot.jpg" alt="botscreen" width="300">
 
 ## Future Improvements
 
