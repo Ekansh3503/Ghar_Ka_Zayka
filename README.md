@@ -64,16 +64,16 @@
 - **Favorite Management**: Users can add and remove recipes from their favorites using AsyncStorage.
 - **Location Handling**: The app saves users' location preferences using AsyncStorage and Firebase, which can be used for location-specific recipe recommendations.
 
-## Screenshots
-
-![Home Screen](screenshots/home-screen.png)
-*The home screen displaying popular recipes*
-
-![Recipe Details](screenshots/recipe-detail.png)
-*Detailed view of a selected recipe*
-
-![Chatbot](screenshots/chatbot.png)
-*Chatbot offering recipe suggestions*
+## UI Screenshots
+![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002445.png?raw=true)
+![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002651.png?raw=true)
+![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002821.png?raw=true)
+![productpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002956.png?raw=true)
+![cartview](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003147.png?raw=true)
+![aboutus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003239.png?raw=true)
+![contactus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003333.png?raw=true)
+![paymentpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003429.png?raw=true)
+![successfullyordered](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003620.png?raw=true)
 
 ## Future Improvements
 
