@@ -4,7 +4,7 @@
 
 ## Features
 
-- **User Authentication**: Users can sign up and log in via Google authentication or email/password using Firebase.
+- **User Authentication**: Users can sign up and log in via email/password using Firebase.
 - **Recipe Sharing**: Users can upload their own recipes, including details such as ingredients, instructions, and images.
 - **Browse Recipes**: Users can browse a variety of recipes fetched from an API and other users.
 - **Favorites**: Users can mark recipes as favorites and save them for quick access.
